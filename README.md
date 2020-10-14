@@ -1,4 +1,4 @@
-# Shakespeare-Poem-Generator
+# Poem-Generator
 A poem generator made using Bidirectional LSTMs trained on Shakespeare's literary works
 
 This is a sequence-based text generation model, trained on Shakespeare's poems to generate a poem in his style of writing for any given input:
